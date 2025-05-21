@@ -22,7 +22,7 @@ echo ""
 echo "[PASO 3] Empaquetando la aplicación..."
 # Este paso no se ejecutará si consideramos que el fallo de prueba detiene el proceso
 echo "Empaquetado completado con ÉXITO"
-echo "------------------------------------"
+echo ------------------------------------"
 echo "PROCESO FINALIZADO CON ÉXITO"
 echo "------------------------------------"
 exit 1 # Es importante salir con un código de error si algo falla
